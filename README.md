@@ -26,3 +26,4 @@
 <img src="assets/previews/main page.png" alt="Main Page" width="200">
 <img src="assets/previews/cart page.png" alt="Cart Page" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.ramen_app_ui"/>  
